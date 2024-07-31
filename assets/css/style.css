@@ -155,8 +155,8 @@ h6 {
   max-height: 40px;
   width: auto;
   margin-right: 10px;
-  outline: 2px solid white;
-  border-radius: 15%;
+  /* outline: 2px solid white;
+  border-radius: 15%; */
 }
 
 /*--------------------------------------------------------------
